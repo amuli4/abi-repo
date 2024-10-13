@@ -1,3 +1,7 @@
 This is an example
 
 This is a new line
+
+and another new line
+
+and more new line
